@@ -94,7 +94,7 @@
     </tr>
     <tr>
         <td>Ben Spain</td>
-        <td>Life of a DevOps Engineer for a website with over a million daily active users 
+        <td>Life of a DevOps Engineer for a website with over a million daily active users</td>
     </tr>
     <tr>
         <td>Nicole Sipe</td>
