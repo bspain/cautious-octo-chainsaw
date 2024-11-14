@@ -33,7 +33,7 @@
     <tr>
         <td width="150px">12:45-1:15pm</td>
         <td width="600px" align="center" colspan="4">Panel Discussion (C2)<br>
-        Jason Walker, Greg Jacobs, Kim Erickson, Andrew Kolb, Jeff Relien, Reid Knuttila</td>
+        Jason Walker, Greg Jacobs, Kim Erickson, Andrew Kolb, Jeff Relien, Reid Knuttila, Mike Hodnick</td>
     </tr>
     <tr>
         <td width="150px">1:15-1:30pm</td>
