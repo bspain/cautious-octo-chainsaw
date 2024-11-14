@@ -1,6 +1,8 @@
 ![Conference Logo](conference-logo.png)
 # Wednesday, November 2024
 
+[Ignite Talks](#ignite-talks-c2)
+
 <table>
     <tr>
         <td width="150px">8:00 - 9:00 am</td>
@@ -79,5 +81,66 @@
     <tr>
         <td width="150px">4:15-6pm</td>
         <td width="600px" align="center" colspan="4">Happy Hour (Cafeteria)</td>
+    </tr>
+</table>
+
+## Ignite Talks (C2)
+### 11:15 - 12:45pm
+<table>
+    <tr>
+        <td>Speaker</td>
+        <td>Title</td>
+    </tr>
+    <tr>
+        <td>Ben Spain</td>
+        <td>Life of a DevOps Engineer for a website with over a million daily active users 
+    </tr>
+    <tr>
+        <td>Nicole Sipe</td>
+        <td>Dollars & DevOps: Making it Rain with FinOps</td>
+    </tr>
+    <tr>
+        <td>Anson Lee</td>
+        <td>DevOps Capability Model Assessment</td>
+    </tr>
+    <tr>
+        <td>Nater Jorde</td>
+        <td>Wait, what are we measuring?</td>
+    </tr>
+    <tr>
+        <td>Brandon Lanier</td>
+        <td>Harnessing GitOps for ArgoCD Deployments</td>
+    </tr>
+    <tr>
+        <td>Sammy Chien</td>
+        <td>Breaking Code or Breaking Ground? How TDD Builds Better Software</td>
+    </tr>
+    <tr>
+        <td>Joe Schmirler</td>
+        <td>SQL Server Deploy Pipeline</td>
+    </tr>
+    <tr>
+        <td>Jack McClure</td>
+        <td>The Five Ideals of Work Priorities, Illusion Improvements, and DevOps</td>
+    </tr>
+    <tr>
+        <td>Cyle Koehler</td>
+        <td>Autodocs roll out!</td>
+    </tr>
+    <tr>
+        <td>Jamie Peschel</td>
+        <td>Proactive Production Testing through Synthetic Monitoring in ELK</td>
+    </tr>
+    <tr>
+        <td>Matthew Brock</td>
+        <td>ServiceNow Development and API Access</td>
+    </tr>
+    <tr>
+        <td>Jeremy Gieske</td>
+        <td>Self-Improvement through DataDog Scorecards</td>
+    </tr>
+    <tr>
+        <td>Siri Watts</td>
+        <td>Logging Best Practices</td>
     </tr>
 </table>
