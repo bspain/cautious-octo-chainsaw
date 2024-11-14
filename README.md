@@ -89,8 +89,8 @@
 
 <table>
     <tr>
-        <td>Speaker</td>
-        <td>Title</td>
+        <td><b>Speaker</b></td>
+        <td><b>Title</b></td>
     </tr>
     <tr>
         <td>Ben Spain</td>
