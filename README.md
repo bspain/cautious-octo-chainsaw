@@ -1,5 +1,5 @@
-![Conference Logo](conference-logo.png)
-# Wednesday, November 2024
+![Conference Logo](conference-logo-2025.png)
+# Wednesday, June 25th 2025
 
 [Ignite Talks](#ignite-talks-c2)
 
