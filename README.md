@@ -3,57 +3,55 @@
 
 <table>
     <tr>
-        <td width="150px">8:00 - 8:55 am</td>
+        <td width="150px">8:00 - 9:00 am</td>
         <td width="750px" align="center" colspan="5">Breakfast (C2)</td>
     </tr>
     <tr>
-        <td width="150px">8:55 - 9:00 am</td>
+        <td width="150px">9:00 - 9:05 am</td>
         <td width="750px" align="center" colspan="5">Opening remarks</td>
     </tr>
     <tr>
-        <td width="150px">9:00 - 9:20 am</td>
-        <td width="750px" align="center" colspan="5">Jason Walker</td>
+        <td width="150px">9:05 - 9:25 am</td>
+        <td width="750px" align="center" colspan="5">Jason Walker<br/>Out Run the Bear: A Look At The Last 80 (or so) Years of DevEx</td>
     </tr>
     <tr>
-        <td width="150px">9:20 - 9:40 am</td>
-        <td width="750px" align="center" colspan="5">Vendor - Cloudsmith</td>
+        <td width="150px">9:25 - 9:45 am</td>
+        <td width="750px" align="center" colspan="5">Alison Sickelka, VP of Product - Cloudsmith</td>
     </tr>
     <tr>
-        <td width="150px">9:40 - 10:00 am</td>
-        <td width="750px" align="center" colspan="5">Ignites - Block 1 <br><br>
+        <td width="150px">9:45 - 10:05 am</td>
+        <td width="750px" align="center" colspan="5">Ignites - Round 1 <br><br>
             <ul align="left">
-                <li>Daniel Steeves – Keyboards as a Hobby</li>
                 <li>Elizabeth Bertani – The impact of Accessibility in the Digital Landscape</li>
                 <li>David Holmquist – Analytics Development Life Cycle (ADLC)</li>
                 <li>Jack McClure – DevSecOps is the Peanut Butter to Targeted Threat Model Chocolate</li>
+                <li>Brian Nippoldt– Why AVRO?</li>
             </ul>
         </td>
     </tr>
     <tr>
-        <td width="150px">10:00 - 10:15 am</td>
+        <td width="150px">10:05 - 10:20 am</td>
         <td width="750px" align="center" colspan="5"><b>Break</b></td>
     </tr>
     <tr>
-        <td width="150px">10:15 - 10:35 am</td>
-        <td width="750px" align="center" colspan="5">Vendor - Hashicorp</td>
+        <td width="150px">10:20 - 10:40 am</td>
+        <td width="750px" align="center" colspan="5">Michael Wood, Field CTO - Hashicorp</td>
     </tr>
     <tr>
-        <td width="150px">10:35 - 10:55 am</td>
-        <td width="750px" align="center" colspan="5">Greg - AWS Agentic AI Demo</td>
+        <td width="150px">10:40 - 11:05 am</td>
+        <td width="750px" align="center" colspan="5">Greg Jacobs - AWS Agentic AI Demo</td>
     </tr>
     <tr>
-        <td width="150px">10:55 - 11:15 am</td>
-        <td width="750px" align="center" colspan="5">Vendor - LaunchDarkly</td>
+        <td width="150px">11:05 - 11:25 am</td>
+        <td width="750px" align="center" colspan="5">Tom Totenberg, Field Lead - LaunchDarkly</td>
     </tr>
     <tr>
-        <td width="150px">11:15 - 11:40 am</td>
-        <td width="750px" align="center" colspan="5">Ignites - Block 2<br><br>
+        <td width="150px">11:25 - 11:40 am</td>
+        <td width="750px" align="center" colspan="5">Ignites - Round 2<br><br>
             <ul align="left">
                 <li>Aaron Oeder – Feature Flags: the key to faster and safer releases</li>
                 <li>Siri Watts – AIOps-Powered Observability: Agentic AI and Tagging Accelerate MTTR Reduction</li>
                 <li>Zeeshan Dawood – From Idea to Interface: Prototyping with AI</li>
-                <li>Pratik Thakor – Test maturity in Enterprise Integration Services</li>
-                <li>Brian Nippoldt– Why AVRO?</li>
             </ul>
         </td>
     </tr>
