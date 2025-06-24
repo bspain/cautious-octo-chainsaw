@@ -277,3 +277,6 @@ CSS has come a long way in the last 30 years, especially in recent years with th
 
 ## Principal Panel - A Q&A Session
 *Jason Walker (Host), Andrew Kolb, Anthony Morano, Clay Cotter, John Borys, Kimberly Erickson, Melissa Reinke, Ryan Voronyak*
+
+# Teams and Vendor Presentation Hall
+![Hall](conference-2025-vendorlayout.svg)
