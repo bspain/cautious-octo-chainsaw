@@ -74,7 +74,7 @@
     <td width="150px">12:30 - 1:10 pm<br>Session 1</td>
     <td width="150px" align="center"><i><a href="#continuing-the-devops-journey---release-on-demand">Continuing the DevOps Journey - Release on Demand</a></i><br>Preston Hardy</td>
     <td width="150px" align="center"><i><a href="#fueling-creativity-through-innovation-weeks">Fueling Creativity Through Innovation Weeks</a></i><br>Jay Hopiaa<br/>Amy Helmrick<br/>Harrison Smith</td>
-    <td width="150px" align="center"><i><a href="#talk-to-your-data---conversational-aibi">Talk to your data - Conversational AI/BI</a></i><br>Dylani Herath</td>
+    <td width="150px" align="center"><i><a href="#talk-to-your-data---conversational-aibi">(CANCELLED)<br/><s>Talk to your data - Conversational AI/BI</s></a></i><br>Dylani Herath</td>
     <td width="150px" align="center"><i><a href="#mission-impossible-a-single-message-vehicle-for-client-communication">Mission: Impossible "A Single Message Vehicle for Client Communication"</a></i><br>Jason Thiesse</td>
     <td width="150px" align="center"><i><a href="#follow-the-data-not-the-rabbit-hole-troubleshoot-with-end-to-end-tracing">Follow the Data, Not the Rabbit Hole: Troubleshoot with End-to-End Tracing</a></i><br>Drew Dow</td>
 </tr>
