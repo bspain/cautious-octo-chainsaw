@@ -70,58 +70,38 @@
         <td width="150px" align="center" bgcolor="#FFCCCB" style="color:black;"><b>Track 4</b><br>(BO B2 2909 Assembly)</td>
         <td width="150px" align="center" bgcolor="#FFFFE0" style="color:black;"><b>Track 5</b><br>(BO B2 1818 Conference)</td>
     </tr>
-    <tr>
-        <td width="150px">12:30 - 1:10 pm<br>Session 1</td>
-        <td width="150px" align="center"><i>[Continuing the DevOps Journey - Release on Demand](#continuing-the-devops-journey---release-on-demand)</i><br>Preston Hardy</td>
-        <td width="150px" align="center"><i>[Fueling Creativity Through Innovation Weeks](#fueling-creativity-through-innovation-weeks)</i><br>Jay Hopiaa<br/>Amy Helmrick<br/>Harrison Smith</td>
-        <td width="150px" align="center"><i>[Talk to your data - Conversational AI/BI](#talk-to-your-data---conversational-aibi)</i><br>Dylani Herath</td>
-        <td width="150px" align="center"><i>[Mission: Impossible "A Single Message Vehicle for Client Communication"](#mission-impossible-a-single-message-vehicle-for-client-communication)</i><br>Jason Thiesse</td>
-        <td width="150px" align="center"><i>[Follow the Data, Not the Rabbit Hole: Troubleshoot with End-to-End Tracing](#follow-the-data-not-the-rabbit-hole-troubleshoot-with-end-to-end-tracing)</i><br>Drew Dow</td>
-    </tr>
-    <tr>
-        <td width="150px">1:10 - 1:25 pm</td>
-        <td width="750px" align="center" colspan="5">Break</td>
-    </tr>
-    <tr>
-        <td width="150px">1:25 - 2:05 pm<br>Session 2</td>
-        <td width="150px" align="center"><i>[Automate the Pain Away - Starring Playwright and GitHub Copilot](#automate-the-pain-away---starring-playwright-and-github-copilot)</i><br>Andy Vander Heyden</td>
-        <td width="150px" align="center"><i>[Lead People, Manage Stress](#lead-people-manage-stress)</i><br>Ben Kohl</td>
-        <td width="150px" align="center"><i>[Document Summarization with GenAI: Prompts and Guardrails on Amazon Bedrock](#document-summarization-with-genai-prompts-and-guardrails-on-amazon-bedrock)</i><br>Rashmi Rani</td>
-        <td width="150px" align="center"><i>[Faulty Logic: The Hidden Bugs in Your Thinking](#faulty-logic-the-hidden-bugs-in-your-thinking)</i><br>Anthony Morano</td>
-        <td width="150px" align="center"><i>[The Hidden Backbone: Keeping GitHub Actions and Workflows Stable](#the-hidden-backbone-keeping-github-actions-and-workflows-stable)</i><br>Sammy Chien</td>
-    </tr>
-    <tr>
-        <td width="150px">2:05 - 2:20 pm</td>
-        <td width="750px" align="center" colspan="5">Break</td>
-    </tr>
-    <tr>
-        <td width="150px">2:20 - 3:00 pm<br>Session 3</td>
-        <td width="150px" align="center"><i>[Squid-ward: An ArgoCD and Helm Adoption Tale](#squid-ward-an-argocd-and-helm-adoption-tale)</i><br>Paul Lee</td>
-        <td width="150px" align="center"><i>[Risk Quantification](#risk-quantification)</i><br>Erin Macuga</td>
-        <td width="150px" align="center"><i>[Inside the Trenches - A True DevOps Maturity Journey Story @ Thrivent](#inside-the-trenches---a-true-devops-maturity-journey-story--thrivent)</i><br>Jay Hopia</td>
-        <td width="150px" align="center"><i>[From Recovery to Resilience](#from-recovery-to-resilience)</i><br>Siddhartha Basu</td>
-        <td width="150px" align="center"><i>[Using OpenRewrite to Accelerate Application Modernization](#using-openrewrite-to-accelerate-application-modernization)</i><br>Adam Chapman</td>
-    </tr>
-    <tr>
-        <td width="150px">3:00 - 3:15 pm</td>
-        <td width="750px" align="center" colspan="5">Break</td>
-    </tr>
-    <tr>
-        <td width="150px">3:15 - 3:55 pm<br>Session 4</td>
-        <td width="150px" align="center"><i>[Principal Panel](#principal-panel---a-qa-session)</i><br>Jason Walker & Co.</td>
-        <td width="150px" align="center"><i>[“I ain’t got time for that” … how to make time for innovation and reducing tech debt on your team.](#i-aint-got-time-for-that-how-to-make-time-for-innovation-and-reducing-tech-debt-on-your-team)</i><br>Lindsay Maddox</td>
-        <td width="150px" align="center"><i>[Salesforce Ephemeral Environments](#salesforce-ephemeral-environments)</i><br>Teo Matase</td>
-        <td width="150px" align="center"><i>[How we did it - Success to our delivery on Enterprise CDM priorities (GCO)](#how-we-did-it---success-to-our-delivery-on-enterprise-cdm-priorities-gco)</i><br>Chris Gentile</td>
-        <td width="150px" align="center"><i>[The Power of CSS in the year 2025](#the-power-of-css-in-the-year-2025)</i><br>Andrew Herder</td>
-    </tr>
-    <tr>
-        <td width="150px">3:55 - 4:00 pm</td>
-        <td width="750px" align="center" colspan="5">Closing (C2)</td>
-    </tr>
-    <tr>
-        <td width="150px">4:00 - 6:00 pm</td>
-        <td width="750px" align="center" colspan="5">Happy Hour (Cafeteria + Atrium)</td>
-    </tr>
+   <tr>
+    <td width="150px">12:30 - 1:10 pm<br>Session 1</td>
+    <td width="150px" align="center"><i><a href="#continuing-the-devops-journey---release-on-demand">Continuing the DevOps Journey - Release on Demand</a></i><br>Preston Hardy</td>
+    <td width="150px" align="center"><i><a href="#fueling-creativity-through-innovation-weeks">Fueling Creativity Through Innovation Weeks</a></i><br>Jay Hopiaa<br/>Amy Helmrick<br/>Harrison Smith</td>
+    <td width="150px" align="center"><i><a href="#talk-to-your-data---conversational-aibi">Talk to your data - Conversational AI/BI</a></i><br>Dylani Herath</td>
+    <td width="150px" align="center"><i><a href="#mission-impossible-a-single-message-vehicle-for-client-communication">Mission: Impossible "A Single Message Vehicle for Client Communication"</a></i><br>Jason Thiesse</td>
+    <td width="150px" align="center"><i><a href="#follow-the-data-not-the-rabbit-hole-troubleshoot-with-end-to-end-tracing">Follow the Data, Not the Rabbit Hole: Troubleshoot with End-to-End Tracing</a></i><br>Drew Dow</td>
+</tr>
+<tr>
+    <td width="150px">1:25 - 2:05 pm<br>Session 2</td>
+    <td width="150px" align="center"><i><a href="#automate-the-pain-away---starring-playwright-and-github-copilot">Automate the Pain Away - Starring Playwright and GitHub Copilot</a></i><br>Andy Vander Heyden</td>
+    <td width="150px" align="center"><i><a href="#lead-people-manage-stress">Lead People, Manage Stress</a></i><br>Ben Kohl</td>
+    <td width="150px" align="center"><i><a href="#document-summarization-with-genai-prompts-and-guardrails-on-amazon-bedrock">Document Summarization with GenAI: Prompts and Guardrails on Amazon Bedrock</a></i><br>Rashmi Rani</td>
+    <td width="150px" align="center"><i><a href="#faulty-logic-the-hidden-bugs-in-your-thinking">Faulty Logic: The Hidden Bugs in Your Thinking</a></i><br>Anthony Morano</td>
+    <td width="150px" align="center"><i><a href="#the-hidden-backbone-keeping-github-actions-and-workflows-stable">The Hidden Backbone: Keeping GitHub Actions and Workflows Stable</a></i><br>Sammy Chien</td>
+</tr>
+<tr>
+    <td width="150px">2:20 - 3:00 pm<br>Session 3</td>
+    <td width="150px" align="center"><i><a href="#squid-ward-an-argocd-and-helm-adoption-tale">Squid-ward: An ArgoCD and Helm Adoption Tale</a></i><br>Paul Lee</td>
+    <td width="150px" align="center"><i><a href="#risk-quantification">Risk Quantification</a></i><br>Erin Macuga</td>
+    <td width="150px" align="center"><i><a href="#inside-the-trenches---a-true-devops-maturity-journey-story--thrivent">Inside the Trenches - A True DevOps Maturity Journey Story @ Thrivent</a></i><br>Jay Hopia</td>
+    <td width="150px" align="center"><i><a href="#from-recovery-to-resilience">From Recovery to Resilience</a></i><br>Siddhartha Basu</td>
+    <td width="150px" align="center"><i><a href="#using-openrewrite-to-accelerate-application-modernization">Using OpenRewrite to Accelerate Application Modernization</a></i><br>Adam Chapman</td>
+</tr>
+<tr>
+    <td width="150px">3:15 - 3:55 pm<br>Session 4</td>
+    <td width="150px" align="center"><i><a href="#principal-panel---a-qa-session">Principal Panel</a></i><br>Jason Walker & Co.</td>
+    <td width="150px" align="center"><i><a href="#i-aint-got-time-for-that-how-to-make-time-for-innovation-and-reducing-tech-debt-on-your-team">“I ain’t got time for that” … how to make time for innovation and reducing tech debt on your team.</a></i><br>Lindsay Maddox</td>
+    <td width="150px" align="center"><i><a href="#salesforce-ephemeral-environments">Salesforce Ephemeral Environments</a></i><br>Teo Matase</td>
+    <td width="150px" align="center"><i><a href="#how-we-did-it---success-to-our-delivery-on-enterprise-cdm-priorities-gco">How we did it - Success to our delivery on Enterprise CDM priorities (GCO)</a></i><br>Chris Gentile</td>
+    <td width="150px" align="center"><i><a href="#the-power-of-css-in-the-year-2025">The Power of CSS in the year 2025</a></i><br>Andrew Herder</td>
+</tr>
 </table>
 
 # Session Abstracts
